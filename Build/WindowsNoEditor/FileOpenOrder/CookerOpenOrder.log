@@ -1,72 +1,72 @@
-"../../../../../../Users/ADMIN/Documents/battletank/FirstPersonShooter/Content/dynamic/character/AI/focus.uasset" 0
-"../../../../../../Users/ADMIN/Documents/battletank/FirstPersonShooter/Content/dynamic/character/AI/iswithinrange.uasset" 1
-"../../../../../../Users/ADMIN/Documents/battletank/FirstPersonShooter/Content/static/NPC/character/UE4_Mannequin_Skeleton.uasset" 2
-"../../../../../../Users/ADMIN/Documents/battletank/FirstPersonShooter/Content/dynamic/character/Animations/TP_Animationclips/Aim_Space_Hip.uasset" 3
-"../../../../../../Users/ADMIN/Documents/battletank/FirstPersonShooter/Content/dynamic/character/Animations/TP_Animationclips/Crouch_Idle_Rifle_Ironsights.uasset" 4
-"../../../../../../Users/ADMIN/Documents/battletank/FirstPersonShooter/Content/dynamic/character/Animations/TP_Animationclips/Crouch_to_Stand_Rifle_Hip.uasset" 5
-"../../../../../../Users/ADMIN/Documents/battletank/FirstPersonShooter/Content/dynamic/character/Animations/TP_Animationclips/Crouch_to_Stand_Rifle_Ironsights.uasset" 6
-"../../../../../../Users/ADMIN/Documents/battletank/FirstPersonShooter/Content/dynamic/character/Animations/TP_Animationclips/Crouch_Walk_Bwd_Rifle_Ironsights.uasset" 7
-"../../../../../../Users/ADMIN/Documents/battletank/FirstPersonShooter/Content/dynamic/character/Animations/TP_Animationclips/Crouch_Walk_Fwd_Rifle_Ironsights.uasset" 8
-"../../../../../../Users/ADMIN/Documents/battletank/FirstPersonShooter/Content/dynamic/character/Animations/TP_Animationclips/Crouch_Walk_Lt_Rifle_Ironsights.uasset" 9
-"../../../../../../Users/ADMIN/Documents/battletank/FirstPersonShooter/Content/dynamic/character/Animations/TP_Animationclips/Crouch_Walk_Rt_Rifle_Ironsights.uasset" 10
-"../../../../../../Users/ADMIN/Documents/battletank/FirstPersonShooter/Content/dynamic/character/Animations/TP_Animationclips/Death_1.uasset" 11
-"../../../../../../Users/ADMIN/Documents/battletank/FirstPersonShooter/Content/dynamic/character/Animations/TP_Animationclips/Death_2.uasset" 12
-"../../../../../../Users/ADMIN/Documents/battletank/FirstPersonShooter/Content/dynamic/character/Animations/TP_Animationclips/Death_Ironsights_1.uasset" 13
-"../../../../../../Users/ADMIN/Documents/battletank/FirstPersonShooter/Content/dynamic/character/Animations/TP_Animationclips/Death_Ironsights_2.uasset" 14
-"../../../../../../Users/ADMIN/Documents/battletank/FirstPersonShooter/Content/dynamic/character/Animations/TP_Animationclips/Equip_Pistol_Standing.uasset" 15
-"../../../../../../Users/ADMIN/Documents/battletank/FirstPersonShooter/Content/dynamic/character/Animations/TP_Animationclips/Equip_Rifle_Standing.uasset" 16
-"../../../../../../Users/ADMIN/Documents/battletank/FirstPersonShooter/Content/dynamic/character/Animations/TP_Animationclips/Fire_Rifle_Hip.uasset" 17
-"../../../../../../Users/ADMIN/Documents/battletank/FirstPersonShooter/Content/dynamic/character/Animations/TP_Animationclips/Fire_Shotgun_Hip.uasset" 18
-"../../../../../../Users/ADMIN/Documents/battletank/FirstPersonShooter/Content/dynamic/character/Animations/TP_Animationclips/Fire_Shotgun_Ironsights.uasset" 19
-"../../../../../../Users/ADMIN/Documents/battletank/FirstPersonShooter/Content/dynamic/character/Animations/TP_Animationclips/Hit_React_1.uasset" 20
-"../../../../../../Users/ADMIN/Documents/battletank/FirstPersonShooter/Content/dynamic/character/Animations/TP_Animationclips/Hit_React_2.uasset" 21
-"../../../../../../Users/ADMIN/Documents/battletank/FirstPersonShooter/Content/dynamic/character/Animations/TP_Animationclips/Hit_React_3.uasset" 22
-"../../../../../../Users/ADMIN/Documents/battletank/FirstPersonShooter/Content/dynamic/character/Animations/TP_Animationclips/Hit_React_4.uasset" 23
-"../../../../../../Users/ADMIN/Documents/battletank/FirstPersonShooter/Content/dynamic/character/Animations/TP_Animationclips/Idle_Pistol.uasset" 24
-"../../../../../../Users/ADMIN/Documents/battletank/FirstPersonShooter/Content/dynamic/character/Animations/TP_Animationclips/Idle_Rifle_Hip_Break1.uasset" 25
-"../../../../../../Users/ADMIN/Documents/battletank/FirstPersonShooter/Content/dynamic/character/Animations/TP_Animationclips/Idle_Rifle_Hip_Break2.uasset" 26
-"../../../../../../Users/ADMIN/Documents/battletank/FirstPersonShooter/Content/dynamic/character/Animations/TP_Animationclips/Jump_From_Stand_Ironsights.uasset" 27
-"../../../../../../Users/ADMIN/Documents/battletank/FirstPersonShooter/Content/dynamic/character/Animations/TP_Animationclips/Prone_Death_1.uasset" 28
-"../../../../../../Users/ADMIN/Documents/battletank/FirstPersonShooter/Content/dynamic/character/Animations/TP_Animationclips/Prone_Death_2.uasset" 29
-"../../../../../../Users/ADMIN/Documents/battletank/FirstPersonShooter/Content/dynamic/character/Animations/TP_Animationclips/Prone_Fire_1.uasset" 30
-"../../../../../../Users/ADMIN/Documents/battletank/FirstPersonShooter/Content/dynamic/character/Animations/TP_Animationclips/Prone_Fire_2.uasset" 31
-"../../../../../../Users/ADMIN/Documents/battletank/FirstPersonShooter/Content/dynamic/character/Animations/TP_Animationclips/Prone_Idle.uasset" 32
-"../../../../../../Users/ADMIN/Documents/battletank/FirstPersonShooter/Content/dynamic/character/Animations/TP_Animationclips/Prone_Reload_Rifle.uasset" 33
-"../../../../../../Users/ADMIN/Documents/battletank/FirstPersonShooter/Content/dynamic/character/Animations/TP_Animationclips/Prone_Reload_Shotgun.uasset" 34
-"../../../../../../Users/ADMIN/Documents/battletank/FirstPersonShooter/Content/dynamic/character/Animations/TP_Animationclips/Prone_To_Stand.uasset" 35
-"../../../../../../Users/ADMIN/Documents/battletank/FirstPersonShooter/Content/dynamic/character/Animations/TP_Animationclips/Reload_Pistol.uasset" 36
-"../../../../../../Users/ADMIN/Documents/battletank/FirstPersonShooter/Content/dynamic/character/Animations/TP_Animationclips/Reload_Rifle_Hip.uasset" 37
-"../../../../../../Users/ADMIN/Documents/battletank/FirstPersonShooter/Content/dynamic/character/Animations/TP_Animationclips/Reload_Rifle_Ironsights.uasset" 38
-"../../../../../../Users/ADMIN/Documents/battletank/FirstPersonShooter/Content/dynamic/character/Animations/TP_Animationclips/Reload_Shotgun_Hip.uasset" 39
-"../../../../../../Users/ADMIN/Documents/battletank/FirstPersonShooter/Content/dynamic/character/Animations/TP_Animationclips/Reload_Shotgun_Ironsights.uasset" 40
-"../../../../../../Users/ADMIN/Documents/battletank/FirstPersonShooter/Content/dynamic/character/Animations/TP_Animationclips/Sprint_Fwd_Rifle.uasset" 41
-"../../../../../../Users/ADMIN/Documents/battletank/FirstPersonShooter/Content/dynamic/character/Animations/TP_Animationclips/Stand_to_Crouch_Rifle_Hip.uasset" 42
-"../../../../../../Users/ADMIN/Documents/battletank/FirstPersonShooter/Content/dynamic/character/Animations/TP_Animationclips/Stand_to_Crouch_Rifle_Ironsights.uasset" 43
-"../../../../../../Users/ADMIN/Documents/battletank/FirstPersonShooter/Content/dynamic/character/Animations/TP_Animationclips/Stand_To_Prone.uasset" 44
+"F:/gitshooter/shooter game/Content/dynamic/character/AI/focus.uasset" 0
+"F:/gitshooter/shooter game/Content/dynamic/character/AI/iswithinrange.uasset" 1
+"F:/gitshooter/shooter game/Content/static/NPC/character/UE4_Mannequin_Skeleton.uasset" 2
+"F:/gitshooter/shooter game/Content/dynamic/character/Animations/TP_Animationclips/Aim_Space_Hip.uasset" 3
+"F:/gitshooter/shooter game/Content/dynamic/character/Animations/TP_Animationclips/Crouch_Idle_Rifle_Ironsights.uasset" 4
+"F:/gitshooter/shooter game/Content/dynamic/character/Animations/TP_Animationclips/Crouch_to_Stand_Rifle_Hip.uasset" 5
+"F:/gitshooter/shooter game/Content/dynamic/character/Animations/TP_Animationclips/Crouch_to_Stand_Rifle_Ironsights.uasset" 6
+"F:/gitshooter/shooter game/Content/dynamic/character/Animations/TP_Animationclips/Crouch_Walk_Bwd_Rifle_Ironsights.uasset" 7
+"F:/gitshooter/shooter game/Content/dynamic/character/Animations/TP_Animationclips/Crouch_Walk_Fwd_Rifle_Ironsights.uasset" 8
+"F:/gitshooter/shooter game/Content/dynamic/character/Animations/TP_Animationclips/Crouch_Walk_Lt_Rifle_Ironsights.uasset" 9
+"F:/gitshooter/shooter game/Content/dynamic/character/Animations/TP_Animationclips/Crouch_Walk_Rt_Rifle_Ironsights.uasset" 10
+"F:/gitshooter/shooter game/Content/dynamic/character/Animations/TP_Animationclips/Death_1.uasset" 11
+"F:/gitshooter/shooter game/Content/dynamic/character/Animations/TP_Animationclips/Death_2.uasset" 12
+"F:/gitshooter/shooter game/Content/dynamic/character/Animations/TP_Animationclips/Death_Ironsights_1.uasset" 13
+"F:/gitshooter/shooter game/Content/dynamic/character/Animations/TP_Animationclips/Death_Ironsights_2.uasset" 14
+"F:/gitshooter/shooter game/Content/dynamic/character/Animations/TP_Animationclips/Equip_Pistol_Standing.uasset" 15
+"F:/gitshooter/shooter game/Content/dynamic/character/Animations/TP_Animationclips/Equip_Rifle_Standing.uasset" 16
+"F:/gitshooter/shooter game/Content/dynamic/character/Animations/TP_Animationclips/Fire_Rifle_Hip.uasset" 17
+"F:/gitshooter/shooter game/Content/dynamic/character/Animations/TP_Animationclips/Fire_Shotgun_Hip.uasset" 18
+"F:/gitshooter/shooter game/Content/dynamic/character/Animations/TP_Animationclips/Fire_Shotgun_Ironsights.uasset" 19
+"F:/gitshooter/shooter game/Content/dynamic/character/Animations/TP_Animationclips/Hit_React_1.uasset" 20
+"F:/gitshooter/shooter game/Content/dynamic/character/Animations/TP_Animationclips/Hit_React_2.uasset" 21
+"F:/gitshooter/shooter game/Content/dynamic/character/Animations/TP_Animationclips/Hit_React_3.uasset" 22
+"F:/gitshooter/shooter game/Content/dynamic/character/Animations/TP_Animationclips/Hit_React_4.uasset" 23
+"F:/gitshooter/shooter game/Content/dynamic/character/Animations/TP_Animationclips/Idle_Pistol.uasset" 24
+"F:/gitshooter/shooter game/Content/dynamic/character/Animations/TP_Animationclips/Idle_Rifle_Hip_Break1.uasset" 25
+"F:/gitshooter/shooter game/Content/dynamic/character/Animations/TP_Animationclips/Idle_Rifle_Hip_Break2.uasset" 26
+"F:/gitshooter/shooter game/Content/dynamic/character/Animations/TP_Animationclips/Jump_From_Stand_Ironsights.uasset" 27
+"F:/gitshooter/shooter game/Content/dynamic/character/Animations/TP_Animationclips/Prone_Death_1.uasset" 28
+"F:/gitshooter/shooter game/Content/dynamic/character/Animations/TP_Animationclips/Prone_Death_2.uasset" 29
+"F:/gitshooter/shooter game/Content/dynamic/character/Animations/TP_Animationclips/Prone_Fire_1.uasset" 30
+"F:/gitshooter/shooter game/Content/dynamic/character/Animations/TP_Animationclips/Prone_Fire_2.uasset" 31
+"F:/gitshooter/shooter game/Content/dynamic/character/Animations/TP_Animationclips/Prone_Idle.uasset" 32
+"F:/gitshooter/shooter game/Content/dynamic/character/Animations/TP_Animationclips/Prone_Reload_Rifle.uasset" 33
+"F:/gitshooter/shooter game/Content/dynamic/character/Animations/TP_Animationclips/Prone_Reload_Shotgun.uasset" 34
+"F:/gitshooter/shooter game/Content/dynamic/character/Animations/TP_Animationclips/Prone_To_Stand.uasset" 35
+"F:/gitshooter/shooter game/Content/dynamic/character/Animations/TP_Animationclips/Reload_Pistol.uasset" 36
+"F:/gitshooter/shooter game/Content/dynamic/character/Animations/TP_Animationclips/Reload_Rifle_Hip.uasset" 37
+"F:/gitshooter/shooter game/Content/dynamic/character/Animations/TP_Animationclips/Reload_Rifle_Ironsights.uasset" 38
+"F:/gitshooter/shooter game/Content/dynamic/character/Animations/TP_Animationclips/Reload_Shotgun_Hip.uasset" 39
+"F:/gitshooter/shooter game/Content/dynamic/character/Animations/TP_Animationclips/Reload_Shotgun_Ironsights.uasset" 40
+"F:/gitshooter/shooter game/Content/dynamic/character/Animations/TP_Animationclips/Sprint_Fwd_Rifle.uasset" 41
+"F:/gitshooter/shooter game/Content/dynamic/character/Animations/TP_Animationclips/Stand_to_Crouch_Rifle_Hip.uasset" 42
+"F:/gitshooter/shooter game/Content/dynamic/character/Animations/TP_Animationclips/Stand_to_Crouch_Rifle_Ironsights.uasset" 43
+"F:/gitshooter/shooter game/Content/dynamic/character/Animations/TP_Animationclips/Stand_To_Prone.uasset" 44
 "../../../Engine/Content/Functions/MaterialLayerFunctions/MatLayerBlend_OverrideOpacityMask.uasset" 45
-"../../../../../../Users/ADMIN/Documents/battletank/FirstPersonShooter/Content/static/TestingGroundPack/RockPackProV1/Rock01/Textures/Rock01_Albedo.uasset" 46
-"../../../../../../Users/ADMIN/Documents/battletank/FirstPersonShooter/Content/static/TestingGroundPack/RockPackProV1/Rock01/Textures/Rock01_Normals.uasset" 47
-"../../../../../../Users/ADMIN/Documents/battletank/FirstPersonShooter/Content/static/TestingGroundPack/RockPackProV1/Rock01/Textures/Rock01_Occlusion.uasset" 48
-"../../../../../../Users/ADMIN/Documents/battletank/FirstPersonShooter/Content/static/TestingGroundPack/RockPackProV1/Textures/RockDetail/Rocks_DetailAlbedo.uasset" 49
-"../../../../../../Users/ADMIN/Documents/battletank/FirstPersonShooter/Content/static/TestingGroundPack/RockPackProV1/Rock01/Rock01_Material.uasset" 50
-"../../../../../../Users/ADMIN/Documents/battletank/FirstPersonShooter/Content/static/TestingGroundPack/RockPackProV1/Rock01/Rock01_High.uasset" 51
-"../../../../../../Users/ADMIN/Documents/battletank/FirstPersonShooter/Content/dynamic/Terrain/props/Rock_01_BP.uasset" 52
-"../../../../../../Users/ADMIN/Documents/battletank/FirstPersonShooter/Content/static/Geometry/Meshes/CubeMaterial.uasset" 53
-"../../../../../../Users/ADMIN/Documents/battletank/FirstPersonShooter/Content/static/Geometry/Meshes/1M_Cube_Chamfer.uasset" 54
-"../../../../../../Users/ADMIN/Documents/battletank/FirstPersonShooter/Content/static/Geometry/Meshes/RampMaterial.uasset" 55
-"../../../../../../Users/ADMIN/Documents/battletank/FirstPersonShooter/Content/static/Geometry/Meshes/Bump_StaticMesh.uasset" 56
-"../../../../../../Users/ADMIN/Documents/battletank/FirstPersonShooter/Content/static/Geometry/Meshes/LeftArm_StaticMesh.uasset" 57
-"../../../../../../Users/ADMIN/Documents/battletank/FirstPersonShooter/Content/static/Geometry/Meshes/Linear_Stair_StaticMesh.uasset" 58
-"../../../../../../Users/ADMIN/Documents/battletank/FirstPersonShooter/Content/static/Geometry/Meshes/Ramp_StaticMesh.uasset" 59
-"../../../../../../Users/ADMIN/Documents/battletank/FirstPersonShooter/Content/static/Geometry/Meshes/RightArm_StaticMesh.uasset" 60
-"../../../../../../Users/ADMIN/Documents/battletank/FirstPersonShooter/Content/static/Geometry/Meshes/TemplateFloor.uasset" 61
-"../../../../../../Users/ADMIN/Documents/battletank/FirstPersonShooter/Content/static/Player/Meshes/BaseMaterial.uasset" 62
-"../../../../../../Users/ADMIN/Documents/battletank/FirstPersonShooter/Content/static/Player/Meshes/CubeMaterialOverride.uasset" 63
-"../../../../../../Users/ADMIN/Documents/battletank/FirstPersonShooter/Content/static/Player/Textures/FirstPersonCrosshair.uasset" 64
-"../../../../../../Users/ADMIN/Documents/battletank/FirstPersonShooter/Content/static/Player/Character/Textures/UE4_LOGO_CARD.uasset" 65
-"../../../../../../Users/ADMIN/Documents/battletank/FirstPersonShooter/Content/static/weapons/Materials/MaterialLayers/ML_Plastic_Shiny_Beige_LOGO.uasset" 66
-"../../../../../../Users/ADMIN/Documents/battletank/FirstPersonShooter/Content/static/weapons/Materials/MaterialLayers/T_ML_FineRubber.uasset" 67
-"../../../../../../Users/ADMIN/Documents/battletank/FirstPersonShooter/Content/static/weapons/Mesh/SK_FPGun_PhysicsAsset.uasset" 68
+"F:/gitshooter/shooter game/Content/static/TestingGroundPack/RockPackProV1/Rock01/Textures/Rock01_Albedo.uasset" 46
+"F:/gitshooter/shooter game/Content/static/TestingGroundPack/RockPackProV1/Rock01/Textures/Rock01_Normals.uasset" 47
+"F:/gitshooter/shooter game/Content/static/TestingGroundPack/RockPackProV1/Rock01/Textures/Rock01_Occlusion.uasset" 48
+"F:/gitshooter/shooter game/Content/static/TestingGroundPack/RockPackProV1/Textures/RockDetail/Rocks_DetailAlbedo.uasset" 49
+"F:/gitshooter/shooter game/Content/static/TestingGroundPack/RockPackProV1/Rock01/Rock01_Material.uasset" 50
+"F:/gitshooter/shooter game/Content/static/TestingGroundPack/RockPackProV1/Rock01/Rock01_High.uasset" 51
+"F:/gitshooter/shooter game/Content/dynamic/Terrain/props/Rock_01_BP.uasset" 52
+"F:/gitshooter/shooter game/Content/static/Geometry/Meshes/CubeMaterial.uasset" 53
+"F:/gitshooter/shooter game/Content/static/Geometry/Meshes/1M_Cube_Chamfer.uasset" 54
+"F:/gitshooter/shooter game/Content/static/Geometry/Meshes/RampMaterial.uasset" 55
+"F:/gitshooter/shooter game/Content/static/Geometry/Meshes/Bump_StaticMesh.uasset" 56
+"F:/gitshooter/shooter game/Content/static/Geometry/Meshes/LeftArm_StaticMesh.uasset" 57
+"F:/gitshooter/shooter game/Content/static/Geometry/Meshes/Linear_Stair_StaticMesh.uasset" 58
+"F:/gitshooter/shooter game/Content/static/Geometry/Meshes/Ramp_StaticMesh.uasset" 59
+"F:/gitshooter/shooter game/Content/static/Geometry/Meshes/RightArm_StaticMesh.uasset" 60
+"F:/gitshooter/shooter game/Content/static/Geometry/Meshes/TemplateFloor.uasset" 61
+"F:/gitshooter/shooter game/Content/static/Player/Meshes/BaseMaterial.uasset" 62
+"F:/gitshooter/shooter game/Content/static/Player/Meshes/CubeMaterialOverride.uasset" 63
+"F:/gitshooter/shooter game/Content/static/Player/Textures/FirstPersonCrosshair.uasset" 64
+"F:/gitshooter/shooter game/Content/static/Player/Character/Textures/UE4_LOGO_CARD.uasset" 65
+"F:/gitshooter/shooter game/Content/static/weapons/Materials/MaterialLayers/ML_Plastic_Shiny_Beige_LOGO.uasset" 66
+"F:/gitshooter/shooter game/Content/static/weapons/Materials/MaterialLayers/T_ML_FineRubber.uasset" 67
+"F:/gitshooter/shooter game/Content/static/weapons/Mesh/SK_FPGun_PhysicsAsset.uasset" 68
 "../../../Engine/Content/Animation/DefaultAnimCurveCompressionSettings.uasset" 69
 "../../../Engine/Content/Functions/Engine_MaterialFunctions01/Opacity/CameraDepthFade.uasset" 70
 "../../../Engine/Content/EngineMaterials/T_Default_Material_Grid_M.uasset" 71
@@ -245,193 +245,193 @@
 "../../Plugins/Runtime/Oculus/OculusVR/Content/Meshes/LeftTouchController.uasset" 244
 "../../Plugins/Runtime/Oculus/OculusVR/Content/Meshes/RiftHMD.uasset" 245
 "../../Plugins/Runtime/Oculus/OculusVR/Content/Meshes/RightTouchController.uasset" 246
-"../../../../../../Users/ADMIN/Documents/battletank/FirstPersonShooter/Content/static/Player/Character/Mesh/SK_Mannequin_Arms_Skeleton.uasset" 247
-"../../../../../../Users/ADMIN/Documents/battletank/FirstPersonShooter/Content/dynamic/character/Animations/FP_animationclips/FirstPerson_Idle.uasset" 248
-"../../../../../../Users/ADMIN/Documents/battletank/FirstPersonShooter/Content/dynamic/character/Animations/FP_animationclips/FirstPerson_JumpEnd.uasset" 249
-"../../../../../../Users/ADMIN/Documents/battletank/FirstPersonShooter/Content/dynamic/character/Animations/FP_animationclips/FirstPerson_JumpLoop.uasset" 250
-"../../../../../../Users/ADMIN/Documents/battletank/FirstPersonShooter/Content/dynamic/character/Animations/FP_animationclips/FirstPerson_JumpStart.uasset" 251
-"../../../../../../Users/ADMIN/Documents/battletank/FirstPersonShooter/Content/dynamic/character/Animations/FP_animationclips/FirstPerson_Run.uasset" 252
+"F:/gitshooter/shooter game/Content/static/Player/Character/Mesh/SK_Mannequin_Arms_Skeleton.uasset" 247
+"F:/gitshooter/shooter game/Content/dynamic/character/Animations/FP_animationclips/FirstPerson_Idle.uasset" 248
+"F:/gitshooter/shooter game/Content/dynamic/character/Animations/FP_animationclips/FirstPerson_JumpEnd.uasset" 249
+"F:/gitshooter/shooter game/Content/dynamic/character/Animations/FP_animationclips/FirstPerson_JumpLoop.uasset" 250
+"F:/gitshooter/shooter game/Content/dynamic/character/Animations/FP_animationclips/FirstPerson_JumpStart.uasset" 251
+"F:/gitshooter/shooter game/Content/dynamic/character/Animations/FP_animationclips/FirstPerson_Run.uasset" 252
 "../../../Engine/Content/EditorBlueprintResources/StandardMacros.uasset" 253
-"../../../../../../Users/ADMIN/Documents/battletank/FirstPersonShooter/Content/dynamic/character/Animations/FirstPerson_AnimBP.uasset" 254
-"../../../../../../Users/ADMIN/Documents/battletank/FirstPersonShooter/Content/dynamic/character/Animations/TP_Animationclips/Aim_Space_Ironsights.uasset" 255
-"../../../../../../Users/ADMIN/Documents/battletank/FirstPersonShooter/Content/dynamic/character/Animations/aimoffset/aimdown.uasset" 256
-"../../../../../../Users/ADMIN/Documents/battletank/FirstPersonShooter/Content/dynamic/character/Animations/aimoffset/aimmiddle.uasset" 257
-"../../../../../../Users/ADMIN/Documents/battletank/FirstPersonShooter/Content/dynamic/character/Animations/aimoffset/aimup.uasset" 258
-"../../../../../../Users/ADMIN/Documents/battletank/FirstPersonShooter/Content/dynamic/character/Animations/aimoffset/aimoffset.uasset" 259
-"../../../../../../Users/ADMIN/Documents/battletank/FirstPersonShooter/Content/dynamic/character/Animations/TP_Animationclips/Crouch_Idle_Rifle_Hip.uasset" 260
-"../../../../../../Users/ADMIN/Documents/battletank/FirstPersonShooter/Content/dynamic/character/Animations/TP_Animationclips/Death_3.uasset" 261
-"../../../../../../Users/ADMIN/Documents/battletank/FirstPersonShooter/Content/dynamic/character/Animations/TP_Animationclips/Fire_Rifle_Ironsights_additive.uasset" 262
-"../../../../../../Users/ADMIN/Documents/battletank/FirstPersonShooter/Content/dynamic/character/Animations/TP_Animationclips/Idle_Rifle_Hip.uasset" 263
-"../../../../../../Users/ADMIN/Documents/battletank/FirstPersonShooter/Content/dynamic/character/Animations/TP_Animationclips/Idle_Rifle_Ironsights.uasset" 264
-"../../../../../../Users/ADMIN/Documents/battletank/FirstPersonShooter/Content/dynamic/character/Animations/TP_Animationclips/Jump_From_Jog.uasset" 265
-"../../../../../../Users/ADMIN/Documents/battletank/FirstPersonShooter/Content/dynamic/character/Animations/TP_Animationclips/Jump_From_Stand.uasset" 266
-"../../../../../../Users/ADMIN/Documents/battletank/FirstPersonShooter/Content/dynamic/character/Animations/TP_Animationclips/Crouch_Walk_Bwd_Rifle_Hip.uasset" 267
-"../../../../../../Users/ADMIN/Documents/battletank/FirstPersonShooter/Content/dynamic/character/Animations/TP_Animationclips/Crouch_Walk_Fwd_Rifle_Hip.uasset" 268
-"../../../../../../Users/ADMIN/Documents/battletank/FirstPersonShooter/Content/dynamic/character/Animations/TP_Animationclips/Crouch_Walk_Lt_Rifle_Hip.uasset" 269
-"../../../../../../Users/ADMIN/Documents/battletank/FirstPersonShooter/Content/dynamic/character/Animations/TP_Animationclips/Crouch_Walk_Rt_Rifle_Hip.uasset" 270
-"../../../../../../Users/ADMIN/Documents/battletank/FirstPersonShooter/Content/dynamic/character/Animations/BlendSpaces/BS_CrouchWalk.uasset" 271
-"../../../../../../Users/ADMIN/Documents/battletank/FirstPersonShooter/Content/dynamic/character/Animations/TP_Animationclips/Jog_Bwd_Rifle.uasset" 272
-"../../../../../../Users/ADMIN/Documents/battletank/FirstPersonShooter/Content/dynamic/character/Animations/TP_Animationclips/Jog_Fwd_Rifle.uasset" 273
-"../../../../../../Users/ADMIN/Documents/battletank/FirstPersonShooter/Content/dynamic/character/Animations/TP_Animationclips/Jog_Lt_Rifle.uasset" 274
-"../../../../../../Users/ADMIN/Documents/battletank/FirstPersonShooter/Content/dynamic/character/Animations/TP_Animationclips/Jog_Rt_Rifle.uasset" 275
-"../../../../../../Users/ADMIN/Documents/battletank/FirstPersonShooter/Content/dynamic/character/Animations/BlendSpaces/BS_Jog.uasset" 276
-"../../../../../../Users/ADMIN/Documents/battletank/FirstPersonShooter/Content/dynamic/character/Animations/TP_Animationclips/Walk_Bwd_Rifle_Ironsights.uasset" 277
-"../../../../../../Users/ADMIN/Documents/battletank/FirstPersonShooter/Content/dynamic/character/Animations/TP_Animationclips/Walk_Fwd_Rifle_Ironsights.uasset" 278
-"../../../../../../Users/ADMIN/Documents/battletank/FirstPersonShooter/Content/dynamic/character/Animations/TP_Animationclips/Walk_Lt_Rifle_Ironsights.uasset" 279
-"../../../../../../Users/ADMIN/Documents/battletank/FirstPersonShooter/Content/dynamic/character/Animations/TP_Animationclips/Walk_Rt_Rifle_Ironsights.uasset" 280
-"../../../../../../Users/ADMIN/Documents/battletank/FirstPersonShooter/Content/dynamic/character/Animations/BlendSpaces/walk_aim.uasset" 281
-"../../../../../../Users/ADMIN/Documents/battletank/FirstPersonShooter/Content/dynamic/character/Animations/TPAnimation.uasset" 282
-"../../../../../../Users/ADMIN/Documents/battletank/FirstPersonShooter/Content/dynamic/character/AI/patroldata.uasset" 283
-"../../../../../../Users/ADMIN/Documents/battletank/FirstPersonShooter/Content/dynamic/character/AI/choosenxtwaypoint.uasset" 284
-"../../../../../../Users/ADMIN/Documents/battletank/FirstPersonShooter/Content/dynamic/character/AI/patrol.uasset" 285
-"../../../../../../Users/ADMIN/Documents/battletank/FirstPersonShooter/Content/dynamic/character/AI/shoot.uasset" 286
-"../../../../../../Users/ADMIN/Documents/battletank/FirstPersonShooter/Content/dynamic/character/AI/shootingsequence.uasset" 287
-"../../../../../../Users/ADMIN/Documents/battletank/FirstPersonShooter/Content/dynamic/character/AI/clearblackboard.uasset" 288
-"../../../../../../Users/ADMIN/Documents/battletank/FirstPersonShooter/Content/dynamic/character/AI/suspision.uasset" 289
-"../../../../../../Users/ADMIN/Documents/battletank/FirstPersonShooter/Content/dynamic/character/AI/suspicion.uasset" 290
-"../../../../../../Users/ADMIN/Documents/battletank/FirstPersonShooter/Content/dynamic/character/AI/gaurd.uasset" 291
-"../../../../../../Users/ADMIN/Documents/battletank/FirstPersonShooter/Content/dynamic/character/AI/AI_controller.uasset" 292
-"../../../../../../Users/ADMIN/Documents/battletank/FirstPersonShooter/Content/dynamic/character/Animations/FP_animationclips/FirstPerson_Fire.uasset" 293
-"../../../../../../Users/ADMIN/Documents/battletank/FirstPersonShooter/Content/dynamic/character/Animations/FirstPersonFire_Montage.uasset" 294
-"../../../../../../Users/ADMIN/Documents/battletank/FirstPersonShooter/Content/dynamic/character/Animations/TP_Animationclips/Fire_Rifle_Ironsights.uasset" 295
-"../../../../../../Users/ADMIN/Documents/battletank/FirstPersonShooter/Content/dynamic/character/Animations/montage_TP.uasset" 296
-"../../../../../../Users/ADMIN/Documents/battletank/FirstPersonShooter/Content/dynamic/weapons/behaviour/material.uasset" 297
-"../../../../../../Users/ADMIN/Documents/battletank/FirstPersonShooter/Content/dynamic/weapons/behaviour/gunmaterial.uasset" 298
-"../../../../../../Users/ADMIN/Documents/battletank/FirstPersonShooter/Content/static/Player/Meshes/FirstPersonProjectileMaterial.uasset" 299
-"../../../../../../Users/ADMIN/Documents/battletank/FirstPersonShooter/Content/static/Player/Meshes/FirstPersonProjectileMesh.uasset" 300
-"../../../../../../Users/ADMIN/Documents/battletank/FirstPersonShooter/Content/dynamic/weapons/behaviour/FirstPersonProjectile.uasset" 301
-"../../../../../../Users/ADMIN/Documents/battletank/FirstPersonShooter/Content/static/Player/Audio/FirstPersonTemplateWeaponFire02.uasset" 302
+"F:/gitshooter/shooter game/Content/dynamic/character/Animations/FirstPerson_AnimBP.uasset" 254
+"F:/gitshooter/shooter game/Content/dynamic/character/Animations/TP_Animationclips/Aim_Space_Ironsights.uasset" 255
+"F:/gitshooter/shooter game/Content/dynamic/character/Animations/aimoffset/aimdown.uasset" 256
+"F:/gitshooter/shooter game/Content/dynamic/character/Animations/aimoffset/aimmiddle.uasset" 257
+"F:/gitshooter/shooter game/Content/dynamic/character/Animations/aimoffset/aimup.uasset" 258
+"F:/gitshooter/shooter game/Content/dynamic/character/Animations/aimoffset/aimoffset.uasset" 259
+"F:/gitshooter/shooter game/Content/dynamic/character/Animations/TP_Animationclips/Crouch_Idle_Rifle_Hip.uasset" 260
+"F:/gitshooter/shooter game/Content/dynamic/character/Animations/TP_Animationclips/Death_3.uasset" 261
+"F:/gitshooter/shooter game/Content/dynamic/character/Animations/TP_Animationclips/Fire_Rifle_Ironsights_additive.uasset" 262
+"F:/gitshooter/shooter game/Content/dynamic/character/Animations/TP_Animationclips/Idle_Rifle_Hip.uasset" 263
+"F:/gitshooter/shooter game/Content/dynamic/character/Animations/TP_Animationclips/Idle_Rifle_Ironsights.uasset" 264
+"F:/gitshooter/shooter game/Content/dynamic/character/Animations/TP_Animationclips/Jump_From_Jog.uasset" 265
+"F:/gitshooter/shooter game/Content/dynamic/character/Animations/TP_Animationclips/Jump_From_Stand.uasset" 266
+"F:/gitshooter/shooter game/Content/dynamic/character/Animations/TP_Animationclips/Crouch_Walk_Bwd_Rifle_Hip.uasset" 267
+"F:/gitshooter/shooter game/Content/dynamic/character/Animations/TP_Animationclips/Crouch_Walk_Fwd_Rifle_Hip.uasset" 268
+"F:/gitshooter/shooter game/Content/dynamic/character/Animations/TP_Animationclips/Crouch_Walk_Lt_Rifle_Hip.uasset" 269
+"F:/gitshooter/shooter game/Content/dynamic/character/Animations/TP_Animationclips/Crouch_Walk_Rt_Rifle_Hip.uasset" 270
+"F:/gitshooter/shooter game/Content/dynamic/character/Animations/BlendSpaces/BS_CrouchWalk.uasset" 271
+"F:/gitshooter/shooter game/Content/dynamic/character/Animations/TP_Animationclips/Jog_Bwd_Rifle.uasset" 272
+"F:/gitshooter/shooter game/Content/dynamic/character/Animations/TP_Animationclips/Jog_Fwd_Rifle.uasset" 273
+"F:/gitshooter/shooter game/Content/dynamic/character/Animations/TP_Animationclips/Jog_Lt_Rifle.uasset" 274
+"F:/gitshooter/shooter game/Content/dynamic/character/Animations/TP_Animationclips/Jog_Rt_Rifle.uasset" 275
+"F:/gitshooter/shooter game/Content/dynamic/character/Animations/BlendSpaces/BS_Jog.uasset" 276
+"F:/gitshooter/shooter game/Content/dynamic/character/Animations/TP_Animationclips/Walk_Bwd_Rifle_Ironsights.uasset" 277
+"F:/gitshooter/shooter game/Content/dynamic/character/Animations/TP_Animationclips/Walk_Fwd_Rifle_Ironsights.uasset" 278
+"F:/gitshooter/shooter game/Content/dynamic/character/Animations/TP_Animationclips/Walk_Lt_Rifle_Ironsights.uasset" 279
+"F:/gitshooter/shooter game/Content/dynamic/character/Animations/TP_Animationclips/Walk_Rt_Rifle_Ironsights.uasset" 280
+"F:/gitshooter/shooter game/Content/dynamic/character/Animations/BlendSpaces/walk_aim.uasset" 281
+"F:/gitshooter/shooter game/Content/dynamic/character/Animations/TPAnimation.uasset" 282
+"F:/gitshooter/shooter game/Content/dynamic/character/AI/patroldata.uasset" 283
+"F:/gitshooter/shooter game/Content/dynamic/character/AI/choosenxtwaypoint.uasset" 284
+"F:/gitshooter/shooter game/Content/dynamic/character/AI/patrol.uasset" 285
+"F:/gitshooter/shooter game/Content/dynamic/character/AI/shoot.uasset" 286
+"F:/gitshooter/shooter game/Content/dynamic/character/AI/shootingsequence.uasset" 287
+"F:/gitshooter/shooter game/Content/dynamic/character/AI/clearblackboard.uasset" 288
+"F:/gitshooter/shooter game/Content/dynamic/character/AI/suspision.uasset" 289
+"F:/gitshooter/shooter game/Content/dynamic/character/AI/suspicion.uasset" 290
+"F:/gitshooter/shooter game/Content/dynamic/character/AI/gaurd.uasset" 291
+"F:/gitshooter/shooter game/Content/dynamic/character/AI/AI_controller.uasset" 292
+"F:/gitshooter/shooter game/Content/dynamic/character/Animations/FP_animationclips/FirstPerson_Fire.uasset" 293
+"F:/gitshooter/shooter game/Content/dynamic/character/Animations/FirstPersonFire_Montage.uasset" 294
+"F:/gitshooter/shooter game/Content/dynamic/character/Animations/TP_Animationclips/Fire_Rifle_Ironsights.uasset" 295
+"F:/gitshooter/shooter game/Content/dynamic/character/Animations/montage_TP.uasset" 296
+"F:/gitshooter/shooter game/Content/dynamic/weapons/behaviour/material.uasset" 297
+"F:/gitshooter/shooter game/Content/dynamic/weapons/behaviour/gunmaterial.uasset" 298
+"F:/gitshooter/shooter game/Content/static/Player/Meshes/FirstPersonProjectileMaterial.uasset" 299
+"F:/gitshooter/shooter game/Content/static/Player/Meshes/FirstPersonProjectileMesh.uasset" 300
+"F:/gitshooter/shooter game/Content/dynamic/weapons/behaviour/FirstPersonProjectile.uasset" 301
+"F:/gitshooter/shooter game/Content/static/Player/Audio/FirstPersonTemplateWeaponFire02.uasset" 302
 "../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BlendAngleCorrectedNormals.uasset" 303
 "../../../Engine/Content/Functions/MaterialLayerFunctions/MatLayerBlend_NormalBlend.uasset" 304
 "../../../Engine/Content/Functions/MaterialLayerFunctions/MatLayerBlend_Simple.uasset" 305
-"../../../../../../Users/ADMIN/Documents/battletank/FirstPersonShooter/Content/static/weapons/Materials/MaterialLayers/T_ML_Rubber_Blue_01_D.uasset" 306
-"../../../../../../Users/ADMIN/Documents/battletank/FirstPersonShooter/Content/static/weapons/Materials/MaterialLayers/T_ML_Rubber_Blue_01_N.uasset" 307
-"../../../../../../Users/ADMIN/Documents/battletank/FirstPersonShooter/Content/static/weapons/Materials/MaterialLayers/ML_GlossyBlack_Latex_UE4.uasset" 308
-"../../../../../../Users/ADMIN/Documents/battletank/FirstPersonShooter/Content/static/weapons/Materials/MaterialLayers/ML_Plastic_Shiny_Beige.uasset" 309
-"../../../../../../Users/ADMIN/Documents/battletank/FirstPersonShooter/Content/static/weapons/Materials/MaterialLayers/ML_Screen.uasset" 310
-"../../../../../../Users/ADMIN/Documents/battletank/FirstPersonShooter/Content/static/weapons/Materials/MaterialLayers/T_ML_Aluminum01.uasset" 311
-"../../../../../../Users/ADMIN/Documents/battletank/FirstPersonShooter/Content/static/weapons/Materials/MaterialLayers/T_ML_Aluminum01_N.uasset" 312
-"../../../../../../Users/ADMIN/Documents/battletank/FirstPersonShooter/Content/static/weapons/Materials/MaterialLayers/ML_SoftMetal_UE4.uasset" 313
-"../../../../../../Users/ADMIN/Documents/battletank/FirstPersonShooter/Content/static/weapons/Textures/T_FPGun_M.uasset" 314
-"../../../../../../Users/ADMIN/Documents/battletank/FirstPersonShooter/Content/static/weapons/Textures/T_FPGun_N.uasset" 315
-"../../../../../../Users/ADMIN/Documents/battletank/FirstPersonShooter/Content/static/weapons/Materials/M_FPGun.uasset" 316
-"../../../../../../Users/ADMIN/Documents/battletank/FirstPersonShooter/Content/static/weapons/Mesh/SK_FPGun_Skeleton.uasset" 317
-"../../../../../../Users/ADMIN/Documents/battletank/FirstPersonShooter/Content/static/weapons/Mesh/SK_FPGun.uasset" 318
-"../../../../../../Users/ADMIN/Documents/battletank/FirstPersonShooter/Content/dynamic/weapons/behaviour/Gun_BP.uasset" 319
+"F:/gitshooter/shooter game/Content/static/weapons/Materials/MaterialLayers/T_ML_Rubber_Blue_01_D.uasset" 306
+"F:/gitshooter/shooter game/Content/static/weapons/Materials/MaterialLayers/T_ML_Rubber_Blue_01_N.uasset" 307
+"F:/gitshooter/shooter game/Content/static/weapons/Materials/MaterialLayers/ML_GlossyBlack_Latex_UE4.uasset" 308
+"F:/gitshooter/shooter game/Content/static/weapons/Materials/MaterialLayers/ML_Plastic_Shiny_Beige.uasset" 309
+"F:/gitshooter/shooter game/Content/static/weapons/Materials/MaterialLayers/ML_Screen.uasset" 310
+"F:/gitshooter/shooter game/Content/static/weapons/Materials/MaterialLayers/T_ML_Aluminum01.uasset" 311
+"F:/gitshooter/shooter game/Content/static/weapons/Materials/MaterialLayers/T_ML_Aluminum01_N.uasset" 312
+"F:/gitshooter/shooter game/Content/static/weapons/Materials/MaterialLayers/ML_SoftMetal_UE4.uasset" 313
+"F:/gitshooter/shooter game/Content/static/weapons/Textures/T_FPGun_M.uasset" 314
+"F:/gitshooter/shooter game/Content/static/weapons/Textures/T_FPGun_N.uasset" 315
+"F:/gitshooter/shooter game/Content/static/weapons/Materials/M_FPGun.uasset" 316
+"F:/gitshooter/shooter game/Content/static/weapons/Mesh/SK_FPGun_Skeleton.uasset" 317
+"F:/gitshooter/shooter game/Content/static/weapons/Mesh/SK_FPGun.uasset" 318
+"F:/gitshooter/shooter game/Content/dynamic/weapons/behaviour/Gun_BP.uasset" 319
 "../../../Engine/Content/Functions/MaterialLayerFunctions/MatLayerBlend_AO.uasset" 320
-"../../../../../../Users/ADMIN/Documents/battletank/FirstPersonShooter/Content/static/NPC/character/T_ML_Rubber_Blue_01_D.uasset" 321
-"../../../../../../Users/ADMIN/Documents/battletank/FirstPersonShooter/Content/static/NPC/character/T_ML_Rubber_Blue_01_N.uasset" 322
-"../../../../../../Users/ADMIN/Documents/battletank/FirstPersonShooter/Content/static/NPC/character/ML_GlossyBlack_Latex_UE4.uasset" 323
-"../../../../../../Users/ADMIN/Documents/battletank/FirstPersonShooter/Content/static/NPC/character/ML_Plastic_Shiny_Beige.uasset" 324
-"../../../../../../Users/ADMIN/Documents/battletank/FirstPersonShooter/Content/static/NPC/character/UE4_LOGO_CARD.uasset" 325
-"../../../../../../Users/ADMIN/Documents/battletank/FirstPersonShooter/Content/static/NPC/character/ML_Plastic_Shiny_Beige_LOGO.uasset" 326
-"../../../../../../Users/ADMIN/Documents/battletank/FirstPersonShooter/Content/static/NPC/character/T_ML_Aluminum01.uasset" 327
-"../../../../../../Users/ADMIN/Documents/battletank/FirstPersonShooter/Content/static/NPC/character/T_ML_Aluminum01_N.uasset" 328
-"../../../../../../Users/ADMIN/Documents/battletank/FirstPersonShooter/Content/static/NPC/character/ML_SoftMetal_UE4.uasset" 329
-"../../../../../../Users/ADMIN/Documents/battletank/FirstPersonShooter/Content/static/NPC/character/UE4_Mannequin__normals.uasset" 330
-"../../../../../../Users/ADMIN/Documents/battletank/FirstPersonShooter/Content/static/NPC/character/UE4_Mannequin_MAT_MASKA.uasset" 331
-"../../../../../../Users/ADMIN/Documents/battletank/FirstPersonShooter/Content/static/NPC/character/UE4_Mannequin_occlusion_Mobile.uasset" 332
-"../../../../../../Users/ADMIN/Documents/battletank/FirstPersonShooter/Content/static/NPC/character/M_UE4Man_Body.uasset" 333
-"../../../../../../Users/ADMIN/Documents/battletank/FirstPersonShooter/Content/static/NPC/character/UE4Man_Logo_N.uasset" 334
-"../../../../../../Users/ADMIN/Documents/battletank/FirstPersonShooter/Content/static/NPC/character/M_UE4Man_ChestLogo.uasset" 335
-"../../../../../../Users/ADMIN/Documents/battletank/FirstPersonShooter/Content/static/NPC/character/SK_Mannequin_PhysicsAsset.uasset" 336
-"../../../../../../Users/ADMIN/Documents/battletank/FirstPersonShooter/Content/static/NPC/character/SK_Mannequin.uasset" 337
-"../../../../../../Users/ADMIN/Documents/battletank/FirstPersonShooter/Content/static/Player/Character/Materials/MaterialLayers/T_ML_Rubber_Blue_01_D.uasset" 338
-"../../../../../../Users/ADMIN/Documents/battletank/FirstPersonShooter/Content/static/Player/Character/Materials/MaterialLayers/T_ML_Rubber_Blue_01_N.uasset" 339
-"../../../../../../Users/ADMIN/Documents/battletank/FirstPersonShooter/Content/static/Player/Character/Materials/MaterialLayers/ML_GlossyBlack_Latex_UE4.uasset" 340
-"../../../../../../Users/ADMIN/Documents/battletank/FirstPersonShooter/Content/static/Player/Character/Materials/MaterialLayers/ML_Plastic_Shiny_Beige.uasset" 341
-"../../../../../../Users/ADMIN/Documents/battletank/FirstPersonShooter/Content/static/Player/Character/Materials/MaterialLayers/ML_Plastic_Shiny_Beige_LOGO.uasset" 342
-"../../../../../../Users/ADMIN/Documents/battletank/FirstPersonShooter/Content/static/Player/Character/Materials/MaterialLayers/T_ML_Aluminum01.uasset" 343
-"../../../../../../Users/ADMIN/Documents/battletank/FirstPersonShooter/Content/static/Player/Character/Materials/MaterialLayers/T_ML_Aluminum01_N.uasset" 344
-"../../../../../../Users/ADMIN/Documents/battletank/FirstPersonShooter/Content/static/Player/Character/Materials/MaterialLayers/ML_SoftMetal_UE4.uasset" 345
-"../../../../../../Users/ADMIN/Documents/battletank/FirstPersonShooter/Content/static/Player/Character/Textures/UE4_Mannequin__normals.uasset" 346
-"../../../../../../Users/ADMIN/Documents/battletank/FirstPersonShooter/Content/static/Player/Character/Textures/UE4_Mannequin_MAT_MASKA.uasset" 347
-"../../../../../../Users/ADMIN/Documents/battletank/FirstPersonShooter/Content/static/Player/Character/Materials/M_UE4Man_Body.uasset" 348
-"../../../../../../Users/ADMIN/Documents/battletank/FirstPersonShooter/Content/static/Player/Character/Mesh/SK_Mannequin_Arms_PhysicsAsset.uasset" 349
-"../../../../../../Users/ADMIN/Documents/battletank/FirstPersonShooter/Content/static/Player/Character/Mesh/SK_Mannequin_Arms.uasset" 350
-"../../../../../../Users/ADMIN/Documents/battletank/FirstPersonShooter/Content/dynamic/character/Behaviour/character.uasset" 351
-"../../../../../../Users/ADMIN/Documents/battletank/FirstPersonShooter/Content/dynamic/character/Behaviour/playercontroller.uasset" 352
-"../../../../../../Users/ADMIN/Documents/battletank/FirstPersonShooter/Content/dynamic/HUD/scoreWidgit.uasset" 353
-"../../../../../../Users/ADMIN/Documents/battletank/FirstPersonShooter/Content/dynamic/HUD/HUD_BP.uasset" 354
-"../../../../../../Users/ADMIN/Documents/battletank/FirstPersonShooter/Content/dynamic/InfinitrGameMode.uasset" 355
+"F:/gitshooter/shooter game/Content/static/NPC/character/T_ML_Rubber_Blue_01_D.uasset" 321
+"F:/gitshooter/shooter game/Content/static/NPC/character/T_ML_Rubber_Blue_01_N.uasset" 322
+"F:/gitshooter/shooter game/Content/static/NPC/character/ML_GlossyBlack_Latex_UE4.uasset" 323
+"F:/gitshooter/shooter game/Content/static/NPC/character/ML_Plastic_Shiny_Beige.uasset" 324
+"F:/gitshooter/shooter game/Content/static/NPC/character/UE4_LOGO_CARD.uasset" 325
+"F:/gitshooter/shooter game/Content/static/NPC/character/ML_Plastic_Shiny_Beige_LOGO.uasset" 326
+"F:/gitshooter/shooter game/Content/static/NPC/character/T_ML_Aluminum01.uasset" 327
+"F:/gitshooter/shooter game/Content/static/NPC/character/T_ML_Aluminum01_N.uasset" 328
+"F:/gitshooter/shooter game/Content/static/NPC/character/ML_SoftMetal_UE4.uasset" 329
+"F:/gitshooter/shooter game/Content/static/NPC/character/UE4_Mannequin__normals.uasset" 330
+"F:/gitshooter/shooter game/Content/static/NPC/character/UE4_Mannequin_MAT_MASKA.uasset" 331
+"F:/gitshooter/shooter game/Content/static/NPC/character/UE4_Mannequin_occlusion_Mobile.uasset" 332
+"F:/gitshooter/shooter game/Content/static/NPC/character/M_UE4Man_Body.uasset" 333
+"F:/gitshooter/shooter game/Content/static/NPC/character/UE4Man_Logo_N.uasset" 334
+"F:/gitshooter/shooter game/Content/static/NPC/character/M_UE4Man_ChestLogo.uasset" 335
+"F:/gitshooter/shooter game/Content/static/NPC/character/SK_Mannequin_PhysicsAsset.uasset" 336
+"F:/gitshooter/shooter game/Content/static/NPC/character/SK_Mannequin.uasset" 337
+"F:/gitshooter/shooter game/Content/static/Player/Character/Materials/MaterialLayers/T_ML_Rubber_Blue_01_D.uasset" 338
+"F:/gitshooter/shooter game/Content/static/Player/Character/Materials/MaterialLayers/T_ML_Rubber_Blue_01_N.uasset" 339
+"F:/gitshooter/shooter game/Content/static/Player/Character/Materials/MaterialLayers/ML_GlossyBlack_Latex_UE4.uasset" 340
+"F:/gitshooter/shooter game/Content/static/Player/Character/Materials/MaterialLayers/ML_Plastic_Shiny_Beige.uasset" 341
+"F:/gitshooter/shooter game/Content/static/Player/Character/Materials/MaterialLayers/ML_Plastic_Shiny_Beige_LOGO.uasset" 342
+"F:/gitshooter/shooter game/Content/static/Player/Character/Materials/MaterialLayers/T_ML_Aluminum01.uasset" 343
+"F:/gitshooter/shooter game/Content/static/Player/Character/Materials/MaterialLayers/T_ML_Aluminum01_N.uasset" 344
+"F:/gitshooter/shooter game/Content/static/Player/Character/Materials/MaterialLayers/ML_SoftMetal_UE4.uasset" 345
+"F:/gitshooter/shooter game/Content/static/Player/Character/Textures/UE4_Mannequin__normals.uasset" 346
+"F:/gitshooter/shooter game/Content/static/Player/Character/Textures/UE4_Mannequin_MAT_MASKA.uasset" 347
+"F:/gitshooter/shooter game/Content/static/Player/Character/Materials/M_UE4Man_Body.uasset" 348
+"F:/gitshooter/shooter game/Content/static/Player/Character/Mesh/SK_Mannequin_Arms_PhysicsAsset.uasset" 349
+"F:/gitshooter/shooter game/Content/static/Player/Character/Mesh/SK_Mannequin_Arms.uasset" 350
+"F:/gitshooter/shooter game/Content/dynamic/character/Behaviour/character.uasset" 351
+"F:/gitshooter/shooter game/Content/dynamic/character/Behaviour/playercontroller.uasset" 352
+"F:/gitshooter/shooter game/Content/dynamic/HUD/scoreWidgit.uasset" 353
+"F:/gitshooter/shooter game/Content/dynamic/HUD/HUD_BP.uasset" 354
+"F:/gitshooter/shooter game/Content/dynamic/InfinitrGameMode.uasset" 355
 "../../../Engine/Content/Functions/Engine_MaterialFunctions01/ImageAdjustment/BlurSampleOffsets.uasset" 356
 "../../../Engine/Content/Functions/Engine_MaterialFunctions01/ImageAdjustment/CheapContrast_RGB.uasset" 357
 "../../../Engine/Content/Functions/Engine_MaterialFunctions02/HueShift.uasset" 358
 "../../../Engine/Content/Functions/Engine_MaterialFunctions02/Texturing/ScreenAlignedPixelToPixelUVs.uasset" 359
 "../../../Engine/Content/EngineMaterials/Good64x64TilingNoiseHighFreq.uasset" 360
 "../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/DitherTemporalAA.uasset" 361
-"../../../../../../Users/ADMIN/Documents/battletank/FirstPersonShooter/Content/static/TestingGroundPack/IndustryPropsPack4/Textures/BaseTextures/base_black_d.uasset" 362
-"../../../../../../Users/ADMIN/Documents/battletank/FirstPersonShooter/Content/static/TestingGroundPack/IndustryPropsPack4/Textures/BaseTextures/base_flat_n.uasset" 363
-"../../../../../../Users/ADMIN/Documents/battletank/FirstPersonShooter/Content/static/TestingGroundPack/IndustryPropsPack4/Textures/BaseTextures/base_gray_d.uasset" 364
-"../../../../../../Users/ADMIN/Documents/battletank/FirstPersonShooter/Content/static/TestingGroundPack/IndustryPropsPack4/Materials/BaseMaterial/bese_material.uasset" 365
-"../../../../../../Users/ADMIN/Documents/battletank/FirstPersonShooter/Content/static/TestingGroundPack/IndustryPropsPack4/Textures/Canister_D.uasset" 366
-"../../../../../../Users/ADMIN/Documents/battletank/FirstPersonShooter/Content/static/TestingGroundPack/IndustryPropsPack4/Textures/Canister_N.uasset" 367
-"../../../../../../Users/ADMIN/Documents/battletank/FirstPersonShooter/Content/static/TestingGroundPack/IndustryPropsPack4/Textures/Canister_SRM.uasset" 368
-"../../../../../../Users/ADMIN/Documents/battletank/FirstPersonShooter/Content/static/TestingGroundPack/IndustryPropsPack4/Materials/Canister.uasset" 369
-"../../../../../../Users/ADMIN/Documents/battletank/FirstPersonShooter/Content/static/TestingGroundPack/IndustryPropsPack4/Meshes/Canister1.uasset" 370
-"../../../../../../Users/ADMIN/Documents/battletank/FirstPersonShooter/Content/dynamic/Terrain/props/Canister1_BP.uasset" 371
-"../../../../../../Users/ADMIN/Documents/battletank/FirstPersonShooter/Content/static/TestingGroundPack/IndustryPropsPack4/Textures/Container_D.uasset" 372
-"../../../../../../Users/ADMIN/Documents/battletank/FirstPersonShooter/Content/static/TestingGroundPack/IndustryPropsPack4/Textures/Container_N.uasset" 373
-"../../../../../../Users/ADMIN/Documents/battletank/FirstPersonShooter/Content/static/TestingGroundPack/IndustryPropsPack4/Textures/Container_SRM.uasset" 374
-"../../../../../../Users/ADMIN/Documents/battletank/FirstPersonShooter/Content/static/TestingGroundPack/IndustryPropsPack4/Textures/Dirt2_N.uasset" 375
-"../../../../../../Users/ADMIN/Documents/battletank/FirstPersonShooter/Content/static/TestingGroundPack/IndustryPropsPack4/Materials/Container.uasset" 376
-"../../../../../../Users/ADMIN/Documents/battletank/FirstPersonShooter/Content/static/TestingGroundPack/IndustryPropsPack4/Meshes/Container.uasset" 377
-"../../../../../../Users/ADMIN/Documents/battletank/FirstPersonShooter/Content/static/TestingGroundPack/IndustryPropsPack4/Meshes/ContainerDoorL.uasset" 378
-"../../../../../../Users/ADMIN/Documents/battletank/FirstPersonShooter/Content/static/TestingGroundPack/IndustryPropsPack4/Meshes/ContainerDoorR.uasset" 379
-"../../../../../../Users/ADMIN/Documents/battletank/FirstPersonShooter/Content/dynamic/Terrain/props/Container_BP.uasset" 380
-"../../../../../../Users/ADMIN/Documents/battletank/FirstPersonShooter/Content/static/TestingGroundPack/RockPackProV1/Rock05/Textures/Rock05_Albedo.uasset" 381
-"../../../../../../Users/ADMIN/Documents/battletank/FirstPersonShooter/Content/static/TestingGroundPack/RockPackProV1/Rock05/Textures/Rock05_Normals.uasset" 382
-"../../../../../../Users/ADMIN/Documents/battletank/FirstPersonShooter/Content/static/TestingGroundPack/RockPackProV1/Rock05/Textures/Rock05_Occlusion.uasset" 383
-"../../../../../../Users/ADMIN/Documents/battletank/FirstPersonShooter/Content/static/TestingGroundPack/RockPackProV1/Rock05/Rock05_Material.uasset" 384
-"../../../../../../Users/ADMIN/Documents/battletank/FirstPersonShooter/Content/static/TestingGroundPack/RockPackProV1/Rock05/Rock05_High.uasset" 385
-"../../../../../../Users/ADMIN/Documents/battletank/FirstPersonShooter/Content/dynamic/Terrain/props/Rock_05_BP.uasset" 386
-"../../../../../../Users/ADMIN/Documents/battletank/FirstPersonShooter/Content/static/TestingGroundPack/RockPackProV1/Rock17/Textures/Rock17_Albedo.uasset" 387
-"../../../../../../Users/ADMIN/Documents/battletank/FirstPersonShooter/Content/static/TestingGroundPack/RockPackProV1/Rock17/Textures/Rock17_Normals.uasset" 388
-"../../../../../../Users/ADMIN/Documents/battletank/FirstPersonShooter/Content/static/TestingGroundPack/RockPackProV1/Rock17/Textures/Rock17_Occlusion.uasset" 389
-"../../../../../../Users/ADMIN/Documents/battletank/FirstPersonShooter/Content/static/TestingGroundPack/RockPackProV1/Rock17/Rock17_Material.uasset" 390
-"../../../../../../Users/ADMIN/Documents/battletank/FirstPersonShooter/Content/static/TestingGroundPack/RockPackProV1/Rock17/Rock17_High.uasset" 391
-"../../../../../../Users/ADMIN/Documents/battletank/FirstPersonShooter/Content/dynamic/Terrain/props/Rock_17_BP.uasset" 392
-"../../../../../../Users/ADMIN/Documents/battletank/FirstPersonShooter/Content/static/TestingGroundPack/IndustryPropsPack4/Textures/TrashCan_D.uasset" 393
-"../../../../../../Users/ADMIN/Documents/battletank/FirstPersonShooter/Content/static/TestingGroundPack/IndustryPropsPack4/Textures/TrashCan_N.uasset" 394
-"../../../../../../Users/ADMIN/Documents/battletank/FirstPersonShooter/Content/static/TestingGroundPack/IndustryPropsPack4/Textures/TrashCan_SRM.uasset" 395
-"../../../../../../Users/ADMIN/Documents/battletank/FirstPersonShooter/Content/static/TestingGroundPack/IndustryPropsPack4/Materials/TrashCan.uasset" 396
-"../../../../../../Users/ADMIN/Documents/battletank/FirstPersonShooter/Content/static/TestingGroundPack/IndustryPropsPack4/Meshes/Sack1.uasset" 397
-"../../../../../../Users/ADMIN/Documents/battletank/FirstPersonShooter/Content/dynamic/Terrain/props/Sack1_BP.uasset" 398
-"../../../../../../Users/ADMIN/Documents/battletank/FirstPersonShooter/Content/static/TestingGroundPack/IndustryPropsPack4/Textures/Box_D.uasset" 399
-"../../../../../../Users/ADMIN/Documents/battletank/FirstPersonShooter/Content/static/TestingGroundPack/IndustryPropsPack4/Textures/Box_N.uasset" 400
-"../../../../../../Users/ADMIN/Documents/battletank/FirstPersonShooter/Content/static/TestingGroundPack/IndustryPropsPack4/Textures/Box_SRM.uasset" 401
-"../../../../../../Users/ADMIN/Documents/battletank/FirstPersonShooter/Content/static/TestingGroundPack/IndustryPropsPack4/Materials/Box.uasset" 402
-"../../../../../../Users/ADMIN/Documents/battletank/FirstPersonShooter/Content/static/TestingGroundPack/IndustryPropsPack4/Meshes/Box2.uasset" 403
-"../../../../../../Users/ADMIN/Documents/battletank/FirstPersonShooter/Content/dynamic/Terrain/props/supply_BP.uasset" 404
-"../../../../../../Users/ADMIN/Documents/battletank/FirstPersonShooter/Content/dynamic/Terrain/material.uasset" 405
-"../../../../../../Users/ADMIN/Documents/battletank/FirstPersonShooter/Content/dynamic/Terrain/greenbarrier.uasset" 406
-"../../../../../../Users/ADMIN/Documents/battletank/FirstPersonShooter/Content/dynamic/Terrain/redbarrier.uasset" 407
-"../../../../../../Users/ADMIN/Documents/battletank/FirstPersonShooter/Content/static/TestingGroundPack/GrassPack/Textures/BaseTextures/base_flat_n.uasset" 408
-"../../../../../../Users/ADMIN/Documents/battletank/FirstPersonShooter/Content/static/TestingGroundPack/GrassPack/Textures/BaseTextures/base_gray_d.uasset" 409
-"../../../../../../Users/ADMIN/Documents/battletank/FirstPersonShooter/Content/static/TestingGroundPack/GrassPack/Materials/BaseMaterial/bese_material.uasset" 410
-"../../../../../../Users/ADMIN/Documents/battletank/FirstPersonShooter/Content/static/TestingGroundPack/GrassPack/Textures/Ground_D.uasset" 411
-"../../../../../../Users/ADMIN/Documents/battletank/FirstPersonShooter/Content/static/TestingGroundPack/GrassPack/Textures/Ground_N.uasset" 412
-"../../../../../../Users/ADMIN/Documents/battletank/FirstPersonShooter/Content/static/TestingGroundPack/GrassPack/Materials/Ground.uasset" 413
-"../../../../../../Users/ADMIN/Documents/battletank/FirstPersonShooter/Content/dynamic/Terrain/ground.uasset" 414
-"../../../../../../Users/ADMIN/Documents/battletank/FirstPersonShooter/Content/static/Geometry/Meshes/1M_Cube.uasset" 415
+"F:/gitshooter/shooter game/Content/static/TestingGroundPack/IndustryPropsPack4/Textures/BaseTextures/base_black_d.uasset" 362
+"F:/gitshooter/shooter game/Content/static/TestingGroundPack/IndustryPropsPack4/Textures/BaseTextures/base_flat_n.uasset" 363
+"F:/gitshooter/shooter game/Content/static/TestingGroundPack/IndustryPropsPack4/Textures/BaseTextures/base_gray_d.uasset" 364
+"F:/gitshooter/shooter game/Content/static/TestingGroundPack/IndustryPropsPack4/Materials/BaseMaterial/bese_material.uasset" 365
+"F:/gitshooter/shooter game/Content/static/TestingGroundPack/IndustryPropsPack4/Textures/Canister_D.uasset" 366
+"F:/gitshooter/shooter game/Content/static/TestingGroundPack/IndustryPropsPack4/Textures/Canister_N.uasset" 367
+"F:/gitshooter/shooter game/Content/static/TestingGroundPack/IndustryPropsPack4/Textures/Canister_SRM.uasset" 368
+"F:/gitshooter/shooter game/Content/static/TestingGroundPack/IndustryPropsPack4/Materials/Canister.uasset" 369
+"F:/gitshooter/shooter game/Content/static/TestingGroundPack/IndustryPropsPack4/Meshes/Canister1.uasset" 370
+"F:/gitshooter/shooter game/Content/dynamic/Terrain/props/Canister1_BP.uasset" 371
+"F:/gitshooter/shooter game/Content/static/TestingGroundPack/IndustryPropsPack4/Textures/Container_D.uasset" 372
+"F:/gitshooter/shooter game/Content/static/TestingGroundPack/IndustryPropsPack4/Textures/Container_N.uasset" 373
+"F:/gitshooter/shooter game/Content/static/TestingGroundPack/IndustryPropsPack4/Textures/Container_SRM.uasset" 374
+"F:/gitshooter/shooter game/Content/static/TestingGroundPack/IndustryPropsPack4/Textures/Dirt2_N.uasset" 375
+"F:/gitshooter/shooter game/Content/static/TestingGroundPack/IndustryPropsPack4/Materials/Container.uasset" 376
+"F:/gitshooter/shooter game/Content/static/TestingGroundPack/IndustryPropsPack4/Meshes/Container.uasset" 377
+"F:/gitshooter/shooter game/Content/static/TestingGroundPack/IndustryPropsPack4/Meshes/ContainerDoorL.uasset" 378
+"F:/gitshooter/shooter game/Content/static/TestingGroundPack/IndustryPropsPack4/Meshes/ContainerDoorR.uasset" 379
+"F:/gitshooter/shooter game/Content/dynamic/Terrain/props/Container_BP.uasset" 380
+"F:/gitshooter/shooter game/Content/static/TestingGroundPack/RockPackProV1/Rock05/Textures/Rock05_Albedo.uasset" 381
+"F:/gitshooter/shooter game/Content/static/TestingGroundPack/RockPackProV1/Rock05/Textures/Rock05_Normals.uasset" 382
+"F:/gitshooter/shooter game/Content/static/TestingGroundPack/RockPackProV1/Rock05/Textures/Rock05_Occlusion.uasset" 383
+"F:/gitshooter/shooter game/Content/static/TestingGroundPack/RockPackProV1/Rock05/Rock05_Material.uasset" 384
+"F:/gitshooter/shooter game/Content/static/TestingGroundPack/RockPackProV1/Rock05/Rock05_High.uasset" 385
+"F:/gitshooter/shooter game/Content/dynamic/Terrain/props/Rock_05_BP.uasset" 386
+"F:/gitshooter/shooter game/Content/static/TestingGroundPack/RockPackProV1/Rock17/Textures/Rock17_Albedo.uasset" 387
+"F:/gitshooter/shooter game/Content/static/TestingGroundPack/RockPackProV1/Rock17/Textures/Rock17_Normals.uasset" 388
+"F:/gitshooter/shooter game/Content/static/TestingGroundPack/RockPackProV1/Rock17/Textures/Rock17_Occlusion.uasset" 389
+"F:/gitshooter/shooter game/Content/static/TestingGroundPack/RockPackProV1/Rock17/Rock17_Material.uasset" 390
+"F:/gitshooter/shooter game/Content/static/TestingGroundPack/RockPackProV1/Rock17/Rock17_High.uasset" 391
+"F:/gitshooter/shooter game/Content/dynamic/Terrain/props/Rock_17_BP.uasset" 392
+"F:/gitshooter/shooter game/Content/static/TestingGroundPack/IndustryPropsPack4/Textures/TrashCan_D.uasset" 393
+"F:/gitshooter/shooter game/Content/static/TestingGroundPack/IndustryPropsPack4/Textures/TrashCan_N.uasset" 394
+"F:/gitshooter/shooter game/Content/static/TestingGroundPack/IndustryPropsPack4/Textures/TrashCan_SRM.uasset" 395
+"F:/gitshooter/shooter game/Content/static/TestingGroundPack/IndustryPropsPack4/Materials/TrashCan.uasset" 396
+"F:/gitshooter/shooter game/Content/static/TestingGroundPack/IndustryPropsPack4/Meshes/Sack1.uasset" 397
+"F:/gitshooter/shooter game/Content/dynamic/Terrain/props/Sack1_BP.uasset" 398
+"F:/gitshooter/shooter game/Content/static/TestingGroundPack/IndustryPropsPack4/Textures/Box_D.uasset" 399
+"F:/gitshooter/shooter game/Content/static/TestingGroundPack/IndustryPropsPack4/Textures/Box_N.uasset" 400
+"F:/gitshooter/shooter game/Content/static/TestingGroundPack/IndustryPropsPack4/Textures/Box_SRM.uasset" 401
+"F:/gitshooter/shooter game/Content/static/TestingGroundPack/IndustryPropsPack4/Materials/Box.uasset" 402
+"F:/gitshooter/shooter game/Content/static/TestingGroundPack/IndustryPropsPack4/Meshes/Box2.uasset" 403
+"F:/gitshooter/shooter game/Content/dynamic/Terrain/props/supply_BP.uasset" 404
+"F:/gitshooter/shooter game/Content/dynamic/Terrain/material.uasset" 405
+"F:/gitshooter/shooter game/Content/dynamic/Terrain/greenbarrier.uasset" 406
+"F:/gitshooter/shooter game/Content/dynamic/Terrain/redbarrier.uasset" 407
+"F:/gitshooter/shooter game/Content/static/TestingGroundPack/GrassPack/Textures/BaseTextures/base_flat_n.uasset" 408
+"F:/gitshooter/shooter game/Content/static/TestingGroundPack/GrassPack/Textures/BaseTextures/base_gray_d.uasset" 409
+"F:/gitshooter/shooter game/Content/static/TestingGroundPack/GrassPack/Materials/BaseMaterial/bese_material.uasset" 410
+"F:/gitshooter/shooter game/Content/static/TestingGroundPack/GrassPack/Textures/Ground_D.uasset" 411
+"F:/gitshooter/shooter game/Content/static/TestingGroundPack/GrassPack/Textures/Ground_N.uasset" 412
+"F:/gitshooter/shooter game/Content/static/TestingGroundPack/GrassPack/Materials/Ground.uasset" 413
+"F:/gitshooter/shooter game/Content/dynamic/Terrain/ground.uasset" 414
+"F:/gitshooter/shooter game/Content/static/Geometry/Meshes/1M_Cube.uasset" 415
 "../../../Engine/Content/Functions/Engine_MaterialFunctions01/Gradient/LinearGradient.uasset" 416
 "../../../Engine/Content/Functions/Engine_MaterialFunctions01/Shading/FuzzyShadingGrass.uasset" 417
 "../../../Engine/Content/Functions/Engine_MaterialFunctions01/WorldPositionOffset/SimpleGrassWind.uasset" 418
-"../../../../../../Users/ADMIN/Documents/battletank/FirstPersonShooter/Content/static/TestingGroundPack/GrassPack/Textures/BaseTextures/Mask1.uasset" 419
-"../../../../../../Users/ADMIN/Documents/battletank/FirstPersonShooter/Content/static/TestingGroundPack/GrassPack/Materials/BaseMaterial/Flora_twoSides.uasset" 420
-"../../../../../../Users/ADMIN/Documents/battletank/FirstPersonShooter/Content/static/TestingGroundPack/GrassPack/Textures/Grass_D.uasset" 421
-"../../../../../../Users/ADMIN/Documents/battletank/FirstPersonShooter/Content/static/TestingGroundPack/GrassPack/Textures/Grass_N.uasset" 422
-"../../../../../../Users/ADMIN/Documents/battletank/FirstPersonShooter/Content/static/TestingGroundPack/GrassPack/Materials/grass.uasset" 423
-"../../../../../../Users/ADMIN/Documents/battletank/FirstPersonShooter/Content/static/TestingGroundPack/GrassPack/Meshes/grass01.uasset" 424
-"../../../../../../Users/ADMIN/Documents/battletank/FirstPersonShooter/Content/static/TestingGroundPack/GrassPack/Textures/Grass2_D.uasset" 425
-"../../../../../../Users/ADMIN/Documents/battletank/FirstPersonShooter/Content/static/TestingGroundPack/GrassPack/Textures/Grass2_N.uasset" 426
-"../../../../../../Users/ADMIN/Documents/battletank/FirstPersonShooter/Content/static/TestingGroundPack/GrassPack/Materials/grass2.uasset" 427
-"../../../../../../Users/ADMIN/Documents/battletank/FirstPersonShooter/Content/static/TestingGroundPack/GrassPack/Meshes/grass02.uasset" 428
-"../../../../../../Users/ADMIN/Documents/battletank/FirstPersonShooter/Content/static/TestingGroundPack/GrassPack/Textures/Grass5_D.uasset" 429
-"../../../../../../Users/ADMIN/Documents/battletank/FirstPersonShooter/Content/static/TestingGroundPack/GrassPack/Textures/Grass5_N.uasset" 430
-"../../../../../../Users/ADMIN/Documents/battletank/FirstPersonShooter/Content/static/TestingGroundPack/GrassPack/Materials/grass5.uasset" 431
-"../../../../../../Users/ADMIN/Documents/battletank/FirstPersonShooter/Content/static/TestingGroundPack/GrassPack/Meshes/grass05.uasset" 432
-"../../../../../../Users/ADMIN/Documents/battletank/FirstPersonShooter/Content/dynamic/Terrain/Tile_BP.uasset" 433
+"F:/gitshooter/shooter game/Content/static/TestingGroundPack/GrassPack/Textures/BaseTextures/Mask1.uasset" 419
+"F:/gitshooter/shooter game/Content/static/TestingGroundPack/GrassPack/Materials/BaseMaterial/Flora_twoSides.uasset" 420
+"F:/gitshooter/shooter game/Content/static/TestingGroundPack/GrassPack/Textures/Grass_D.uasset" 421
+"F:/gitshooter/shooter game/Content/static/TestingGroundPack/GrassPack/Textures/Grass_N.uasset" 422
+"F:/gitshooter/shooter game/Content/static/TestingGroundPack/GrassPack/Materials/grass.uasset" 423
+"F:/gitshooter/shooter game/Content/static/TestingGroundPack/GrassPack/Meshes/grass01.uasset" 424
+"F:/gitshooter/shooter game/Content/static/TestingGroundPack/GrassPack/Textures/Grass2_D.uasset" 425
+"F:/gitshooter/shooter game/Content/static/TestingGroundPack/GrassPack/Textures/Grass2_N.uasset" 426
+"F:/gitshooter/shooter game/Content/static/TestingGroundPack/GrassPack/Materials/grass2.uasset" 427
+"F:/gitshooter/shooter game/Content/static/TestingGroundPack/GrassPack/Meshes/grass02.uasset" 428
+"F:/gitshooter/shooter game/Content/static/TestingGroundPack/GrassPack/Textures/Grass5_D.uasset" 429
+"F:/gitshooter/shooter game/Content/static/TestingGroundPack/GrassPack/Textures/Grass5_N.uasset" 430
+"F:/gitshooter/shooter game/Content/static/TestingGroundPack/GrassPack/Materials/grass5.uasset" 431
+"F:/gitshooter/shooter game/Content/static/TestingGroundPack/GrassPack/Meshes/grass05.uasset" 432
+"F:/gitshooter/shooter game/Content/dynamic/Terrain/Tile_BP.uasset" 433
 "../../../Engine/Content/EngineSky/C_Sky_Cloud_Color.uasset" 434
 "../../../Engine/Content/EngineSky/C_Sky_Horizon_Color.uasset" 435
 "../../../Engine/Content/EngineSky/C_Sky_Zenith_Color.uasset" 436
@@ -441,7 +441,7 @@
 "../../../Engine/Content/EngineSky/M_Sky_Panning_Clouds2.uasset" 440
 "../../../Engine/Content/EngineSky/SM_SkySphere.uasset" 441
 "../../../Engine/Content/EngineSky/BP_Sky_Sphere.uasset" 442
-"../../../../../../Users/ADMIN/Documents/battletank/FirstPersonShooter/Content/dynamic/Level/FirstPersonExampleMap_BuiltData.uasset" 443
-"../../../../../../Users/ADMIN/Documents/battletank/FirstPersonShooter/Content/dynamic/Level/FirstPersonExampleMap.umap" 444
+"F:/gitshooter/shooter game/Content/dynamic/Level/FirstPersonExampleMap_BuiltData.uasset" 443
+"F:/gitshooter/shooter game/Content/dynamic/Level/FirstPersonExampleMap.umap" 444
 "../../../Engine/Content/Maps/Entry_BuiltData.uasset" 445
 "../../../Engine/Content/Maps/Entry.umap" 446
